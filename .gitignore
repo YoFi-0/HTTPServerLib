@@ -1,4 +1,4 @@
-Server-Side\bin\**
-Server-Side\bin
-Server-Side\obj\**
-Server-Side\obj
+/Server-Side/bin/**
+/Server-Side/bin
+/Server-Side/obj/**
+/Server-Side/obj
